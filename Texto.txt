@@ -1,28 +1,4 @@
-next
-next
-desmarcar git gui, habilitar outras fontes
-next
-next
-visual studio code
-next
-next
-next
-habilitar link simbolico
-next
-next
-
-
--------------------------------------------------
-linux
-ls = list = listar
-para ver todos os parâmetros digite ls --help
-ctrl + insert para copiar no git
-é possível combinar mais de um parâmetro, ls -alh
-cd = comando para mudar de pasta
-atalhos
-~ = pasta do usuário logado
-. = pasta atual
-..= paste anterior
-pwd = mostra o caminho completo
-master = linha do tempo principal do github
-git status = mostra o que mudou no seu repositório
+LIGA DA JUSTIÇA
+HOMEM DE FERRO
+TITANIC
+AVATAR
